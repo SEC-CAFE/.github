@@ -28,7 +28,7 @@ https://sec.cafe
 <span align="left">
   <img src="/assets/wechatpay.jpg" width="100" alt="微信打赏">
   <img src="/assets/alipay.jpg" width="100" alt="支付宝打赏">
-</span>
+</span></br>
 <span align="left">
   <a href="patreon.com/user?u=93897763"><img src="/assets/patreon.png" alt="Patreon" width="150" /></a>
 </span>
