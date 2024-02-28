@@ -20,17 +20,17 @@ https://sec.cafe
 #### 参与或意见反馈
 
 <span align="left">
-  <a href="https://discord.gg/WXSvykbYDb"><img src="https://user-images.githubusercontent.com/35542790/210373056-35ba21a9-79b4-4bc1-a06a-0153dc14d97d.png" width="150" alt="Join Discord"></a></br>
+  <a href="https://discord.gg/WXSvykbYDb"><img src="/assets/joindiscord.png" width="150" alt="Join Discord"></a></br>
   微信群请添加微信[_ffff01]为好友邀请进群！
 </span>
 
 #### 赞助与打赏
 <span align="left">
-  <img src="assets/wechatpay.jpg" width="100" alt="微信打赏">
-  <img src="assets/alipay.jpg" width="100" alt="支付宝打赏">
+  <img src="/assets/wechatpay.jpg" width="100" alt="微信打赏">
+  <img src="/assets/alipay.jpg" width="100" alt="支付宝打赏">
 </span>
 <span align="left">
-  <a href="patreon.com/user?u=93897763"><img src="assets/patreon.png" alt="Patreon" width="150" /></a>
+  <a href="patreon.com/user?u=93897763"><img src="/assets/patreon.png" alt="Patreon" width="150" /></a>
 </span>
 
 ### 联系方式
