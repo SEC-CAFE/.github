@@ -30,7 +30,7 @@ https://sec.cafe
   <img src="/assets/alipay.jpg" width="100" alt="支付宝打赏">
 </span></br>
 <span align="left">
-  <a href="patreon.com/user?u=93897763"><img src="/assets/patreon.png" alt="Patreon" width="150" /></a>
+  <a href="https://www.patreon.com/user?u=93897763"><img src="/assets/patreon.png" alt="Patreon" width="150" /></a>
 </span>
 
 ### 联系方式
