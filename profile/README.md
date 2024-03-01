@@ -7,7 +7,7 @@
 我们致力于提供免费的安全工具、服务与知识，帮助安全爱好者更好的开展安全技术研究，以及帮助企业进行企业安全建设！
 
 ### 上线功能
- - 2016 [0xSafe](https://0xsafe.org/?ref=github) `漏洞平台与企业SRC聚合语检索` 
+ - 2016 [0xSafe](https://0xsafe.org/?ref=github) `漏洞平台、企业SRC聚合与检索` 
  - 2023年5月 [漏洞情报](https://sec.cafe/?ref=github) `多源聚合去重 · 快速监测 · 免费订阅`
  - 2023年12月 [安全手册](https://sec.cafe/handbook/?ref=github) `企业安全实践、攻防与安全研究知识库`
  - 2024 安全搜索 `敬请期待`
