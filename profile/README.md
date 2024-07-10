@@ -10,6 +10,7 @@
  - 2016 [0xSafe](https://0xsafe.org/?ref=github) `漏洞平台、企业SRC聚合与检索` 
  - 2023年5月 [漏洞情报](https://sec.cafe/?ref=github) `多源聚合去重 · 快速监测 · 免费订阅`
  - 2023年12月 [安全手册](https://sec.cafe/handbook/?ref=github) `企业安全实践、攻防与安全研究知识库`
+ - 2024年6月 [安全导航(NEW)](https://sec.cafe/links/?ref=github) `新版0xSafe，漏洞平台、SRC等聚合与检索`
  - 2024 安全搜索 `敬请期待`
 
 ### 参与或赞助项目
